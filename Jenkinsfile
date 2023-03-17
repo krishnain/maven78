@@ -7,7 +7,8 @@ pipeline
         {
             steps
             {
-                git 'https://github.com/intelliqittrainings/maven.git'
+                git 'https://github.com/krishnain/maven78.git'
+
             }
         }
         stage('ContBuild')
